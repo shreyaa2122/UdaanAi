@@ -42,3 +42,23 @@ Features
           └────────┬────────┘
                    ▼
              Google Gemini
+
+
+Example User Flow 
+1. User opens UdaanAI
+        ↓
+2. Selects entrance examination
+        ↓
+3. Enters rank
+        ↓
+4. Selects category and preferences
+        ↓
+5. UdaanAI searches cutoff data
+        ↓
+6. Matching colleges are displayed
+        ↓
+7. User selects a college
+        ↓
+8. Gemini generates additional insights
+        ↓
+9. User can compare colleges
