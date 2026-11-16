@@ -133,4 +133,4 @@ The goal is to help students move from confusion to clarity and make more inform
 
 ---
 
-\<p align="center">   \<b>Built with ❤️ to help students find their direction.\</b> \</p>
+Built with ❤️ to help students find their direction.
