@@ -1,14 +1,7 @@
 # 🧭 Udaan AI — Personalized Career & Counselling Guide
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png)" width="100" alt="Udaan AI Compass"/>
-\</p>
+ An AI-powered platform designed to help students make informed decisions about college admissions, career paths, and academic planning.
 
-\<h3 align="center">Navigate the chaos of college admissions and career decisions with AI.\</h3>
-
-\<p align="center">
-&#x20; An AI-powered platform designed to help students make informed decisions about college admissions, career paths, and academic planning.
-\</p>
 
 ---
 
